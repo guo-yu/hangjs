@@ -1,4 +1,6 @@
-## ![logo](http://ww4.sinaimg.cn/large/61ff0de3gw1efhavisn8uj201j01amwz.jpg) hangJS 
+## ![logo](./assets/label.jpg) hangJS 
+
+the presentation and code snippets for hangJS, jsconf 2014.
 
 ### MIT license
 Copyright (c) 2014 turing &lt;o.u.turing@gmail.com&gt;
