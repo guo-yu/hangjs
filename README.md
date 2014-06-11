@@ -4,9 +4,9 @@ the presentation and code snippets for hangJS, jsconf 2014, 22/06/2014 in HangZh
 
 ### Presentation Slides
 
-![Page 1](./dist/pages/page1.png)
-![Page 2](./dist/pages/page2.png)
-![Page 3](./dist/pages/page3.png)
+![Page 1](./dist/pages/page1.jpg)
+![Page 2](./dist/pages/page2.jpg)
+![Page 3](./dist/pages/page3.jpg)
 
 ### MIT license
 Copyright (c) 2014 turing &lt;o.u.turing@gmail.com&gt;
